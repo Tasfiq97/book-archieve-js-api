@@ -63,8 +63,6 @@ const booksArray= results.docs;
       const div=document.createElement("div");
       // img not found related 
 
-      if(books.cover_i){
-      }
 
       div.classList.add("col");
 
